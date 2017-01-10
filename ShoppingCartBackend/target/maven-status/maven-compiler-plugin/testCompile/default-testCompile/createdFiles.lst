@@ -1,0 +1,6 @@
+com\niit\shoppingcart\test\CategoryTestCase.class
+com\niit\shoppingcart\test\OrderTestCase.class
+com\niit\shoppingcart\test\SupplierTestCase.class
+com\niit\shoppingcart\test\CartTestCase.class
+com\niit\shoppingcart\test\ProductTestCase.class
+com\niit\shoppingcart\test\UserTestCase.class
